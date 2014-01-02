@@ -26,16 +26,31 @@ Go to: `Preferences -> Settings - User`.
 #### Blue Monday:
 ```
 {
-  "theme": "Future Funk (Blue Monday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk (Blue Monday)tmTheme"
+  "theme": "Spacefunk (Blue Monday).sublime-theme",
+  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Blue Monday).tmTheme"
 }
 ```
 #### Grey Tuesday
 ```
 {
-  "theme": "Future Funk (Grey Tuesday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk (Grey Tuesday)tmTheme"
+  "theme": "Spacefunk (Grey Tuesday).sublime-theme",
+  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme"
 }
 ```
 
 Restart Sublime Text to make sure all changes are applied.
+
+### Screenshots
+#### Blue Monday
+![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20PHP.png)
+
+![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20HTML.png)
+
+![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20CSS.png)
+
+#### Grey Tuesday
+![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20PHP.png)
+
+![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20HTML.png)
+
+![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20CSS.png)
