@@ -12,7 +12,7 @@
         "tab_width": 180,
         "tab_min_width": 40,
         "tab_height": 40,
-        "mouse_wheel_switch": false,
+        "mouse_wheel_switch": false
     },
     {
         "class": "tabset_control",
