@@ -97,7 +97,7 @@
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
         "layer0.texture": "Theme - Spacefunk/Spacefunk/close.png",
         "layer0.tint": [224,97,94],
-        "layer0.opacity": 1,
+        "layer0.opacity": 1
     },
     {
         "class": "tab_close_button",
