@@ -334,10 +334,10 @@
     // Tooltip container
     {
         "class": "tool_tip_control",
-        "layer0.tint": [79,91,103],
+        "layer0.tint": [76,77,78],
         "layer0.inner_margin": [1,1],
         "layer0.opacity": 1,
-        "content_margin": [4,4]
+        "content_margin": 6
     },
     // Tooltip content
     {
