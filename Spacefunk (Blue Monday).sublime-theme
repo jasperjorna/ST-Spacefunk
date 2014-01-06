@@ -33,6 +33,14 @@
         "layer0.tint": [38,45,54],
         "layer0.opacity": 1
     },
+    // Tab close state (!show_tab_close_buttons)
+    {
+        "class": "tab_control",
+        "settings": ["!show_tab_close_buttons"],
+        "content_margin": [10,0,8,0],
+        "layer0.tint": [38,45,54],
+        "layer0.opacity": 1
+    },
     // Tab hover state
     {
         "class": "tab_control",
@@ -44,7 +52,14 @@
         "attributes": ["selected"],
         "layer0.tint": [49,57,69]
     },
-    // Tab dirty state (close button hidden)
+    // Tab active state (!show_tab_close_buttons)
+    {
+        "class": "tab_control",
+        "settings": ["!show_tab_close_buttons"],
+        "attributes": ["selected"],
+        "layer0.tint": [49,57,69]
+    },
+    // Tab dirty state (!show_tab_close_buttons)
     {
         "class": "tab_control",
         "settings": ["!show_tab_close_buttons"],
