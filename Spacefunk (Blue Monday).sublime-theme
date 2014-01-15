@@ -617,7 +617,7 @@
         "class": "text_line_control",
         "layer0.tint": [51,61,70],
         "layer0.opacity": 1,
-        "content_margin": [4,3,0,3]
+        "content_margin": 5
     },
 //
 // PANEL BACKGROUNDS
