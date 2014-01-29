@@ -1,0 +1,25 @@
+Hi there,
+
+Here are some simple instructions to get you going.
+Copy and paste one of the following bits to your user preferences file.
+
+Blue Monday:
+{
+  "theme": "Spacefunk (Blue Monday).sublime-theme",
+  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Blue Monday).tmTheme"
+}
+
+Grey Tuesday:
+{
+  "theme": "Spacefunk (Grey Tuesday).sublime-theme",
+  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme"
+}
+
+Include an additional line for a light sidebar if you fancy:
+{
+  "spacefunk_sidebar_light": true
+}
+
+Restart Sublime Text to make sure all changes are applied.
+
+Enjoy!

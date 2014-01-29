@@ -1,0 +1,12 @@
+Hey there,
+
+This is a small update to the Spacefunk theme.
+
+Included is a new light version of the sidebar.
+Add the following line to your user preferences file to activate it:
+
+{
+  "spacefunk_sidebar_light": true
+}
+
+Happy coding!

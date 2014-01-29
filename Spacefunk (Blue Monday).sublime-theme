@@ -389,6 +389,38 @@
         "layer0.tint": [21,25,30],
         "layer0.opacity": 1
     },
+    {
+        "class": "sidebar_container",
+        "settings": ["spacefunk_sidebar_light"],
+        "layer0.tint": [222,222,222]
+    },
+    // Sidebar scrollbar
+    {
+        "class": "scroll_bar_control",
+        "parents": [{"class": "sidebar_container"}],
+        "settings": ["spacefunk_sidebar_light"],
+        "layer0.tint": [222,222,222],
+        "layer0.opacity": 1,
+        "blur": true
+    },
+    // Sidebar scrollbar vertical puck
+    {
+        "class": "puck_control",
+        "parents": [{"class": "sidebar_container"}],
+        "settings": ["spacefunk_sidebar_light"],
+        "layer0.tint": [181,182,182],
+        "layer0.opacity": 1,
+        "layer0.inner_margin": 0,
+        "content_margin": 5,
+        "blur": false
+    },
+    // Sidebar scrollbar corner
+    {
+        "class": "scroll_corner_control",
+        "parents": [{"class": "sidebar_container"}],
+        "settings": ["spacefunk_sidebar_light"],
+        "layer0.tint": [222,222,222]
+    },
     // Sidebar tree
     {
         "class": "sidebar_tree",
@@ -410,6 +442,12 @@
         "layer0.tint": [33,38,46],
         "layer0.opacity": 1
     },
+    {
+        "class": "tree_row",
+        "settings": ["spacefunk_sidebar_light"],
+        "attributes": ["selected"],
+        "layer0.tint": [206,207,207]
+    },
     // Sidebar heading
     {
         "class": "sidebar_heading",
@@ -417,6 +455,12 @@
         "shadow_color": [0,0,0],
         "shadow_offset": [0,1],
         "font.bold": true
+    },
+    {
+        "class": "sidebar_heading",
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [84,84,84],
+        "shadow_color": [235,235,235]
     },
     // Sidebar heading selected
     {
@@ -432,9 +476,20 @@
     },
     {
         "class": "sidebar_label",
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [89,89,89]
+    },
+    {
+        "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "color": [202,204,207],
         "shadow_offset": 0
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [38,38,38]
     },
     // Sidebar folder entry
     {
@@ -446,10 +501,24 @@
     },
     {
         "class": "sidebar_label",
+        "parents": [{"class": "tree_row","attributes": ["expandable"]}],
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [84,84,84],
+        "shadow_color": [235,235,235]
+    },
+    {
+        "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["expandable","hover"]}],
         "color": [192,197,206],
         "shadow_color": [0,0,0],
         "shadow_offset": [0,1]
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row","attributes": ["expandable","hover"]}],
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [38,38,38],
+        "shadow_color": [235,235,235]
     },
     {
         "class": "sidebar_label",
@@ -464,6 +533,13 @@
         "color": [223,225,232],
         "shadow_color": [0,0,0],
         "shadow_offset": [0,1]
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row","attributes": ["selected"]}],
+        "settings": ["spacefunk_sidebar_light"],
+        "color": [38,38,38],
+        "shadow_color": [235,235,235]
     },
 //
 // SIDEBAR - OPEN FILE ICONS
@@ -531,6 +607,12 @@
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.tint": [167,173,186]
+    },
+    {
+        "class": "disclosure_button_control",
+        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "settings": ["spacefunk_sidebar_light"],
+        "layer0.tint": [38,38,38]
     },
     {
         "class": "disclosure_button_control",
@@ -617,7 +699,7 @@
         "class": "text_line_control",
         "layer0.tint": [51,61,70],
         "layer0.opacity": 1,
-        "content_margin": 5
+        "content_margin": 3
     },
 //
 // PANEL BACKGROUNDS
