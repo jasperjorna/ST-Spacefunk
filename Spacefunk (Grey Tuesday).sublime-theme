@@ -607,6 +607,11 @@
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "layer0.tint": [202,204,207]
+    },
+    {
+        "class": "disclosure_button_control",
+        "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "settings": ["spacefunk_sidebar_light"],
         "layer0.tint": [38,38,38]
     },
