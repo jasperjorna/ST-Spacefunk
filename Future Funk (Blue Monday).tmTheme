@@ -588,6 +588,27 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Sass: Meta selector</string>
+                <key>scope</key>
+                <string>source.sass variable</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string />
+                    <key>foreground</key>
+                    <string>#9CEFFF</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>-----------------------------------</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string />
+                </dict>
+            </dict>
+                <key>name</key>
                 <string>HTML: Doctype Declaration</string>
                 <key>scope</key>
                 <string>meta.tag.sgml.doctype</string>
@@ -624,7 +645,7 @@
                     <key>fontStyle</key>
                     <string />
                     <key>foreground</key>
-                    <string>#ff</string>
+                    <string>#fff</string>
                 </dict>
             </dict>
             <dict>
