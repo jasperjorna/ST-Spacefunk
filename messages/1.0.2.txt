@@ -1,0 +1,5 @@
+Hey there,
+
+A small issue with the horizontal scrollbar has been fixed.
+
+Happy coding!

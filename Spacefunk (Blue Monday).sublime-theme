@@ -228,7 +228,7 @@
         "attributes": ["horizontal"],
         "layer0.tint": [52,61,70],
         "layer0.inner_margin": 0,
-        "content_margin": [0,3],
+        "content_margin": 5,
         "blur": false
     },
 //
