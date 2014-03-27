@@ -2,8 +2,6 @@
 
 Spacefunk is a minimalistic theme for Sublime Text, based on [kkga's](https://github.com/kkga/spacegray) Spacegray theme.
 
-The theme comes with 2 colour schemes that fit with the rest of the theme.
-
 ## Install
 
 ### Via Package Control
@@ -27,14 +25,12 @@ Go to: `Preferences -> Settings - User`.
 ```
 {
   "theme": "Spacefunk (Blue Monday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Blue Monday).tmTheme"
 }
 ```
 #### Grey Tuesday
 ```
 {
   "theme": "Spacefunk (Grey Tuesday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme"
 }
 ```
 
@@ -46,8 +42,13 @@ If you prefer a lighter version of the sidebar you can add the following line to
   "spacefunk_sidebar_light": true
 }
 ```
-
 Restart Sublime Text to make sure all changes are applied. Enjoy!
+
+#### Future Funk - Colour schemes
+I've created 2 colour schemes that fit well with the theme.
+They are maintained separately from Spacefunk.
+
+Find them on: [Package Control](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme) or [Github](https://github.com/Twiebie/ST-FutureFunk).
 
 ### Screenshots
 #### Blue Monday

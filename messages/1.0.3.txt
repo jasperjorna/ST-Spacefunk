@@ -1,0 +1,9 @@
+Hi there,
+
+The Future Funk colour schemes are no longer included with Spacefunk and will be maintained separately.
+
+You can find them on Package Control or GitHub:
+- https://sublime.wbond.net/packages/Future Funk - Color Scheme
+- https://github.com/Twiebie/ST-FutureFunk
+
+Thanks!
