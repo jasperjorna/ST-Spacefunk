@@ -169,7 +169,7 @@
 //
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Spacefunk/Spacefunk/folder-open.png",
+        "layer0.texture": "Theme - Spacefunk/Spacefunk/folder-closed.png",
         "layer0.opacity": 0.1,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -182,7 +182,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacefunk/Spacefunk/folder-closed.png"
+        "layer0.texture": "Theme - Spacefunk/Spacefunk/folder-open.png"
     },
     {
         "class": "fold_button_control",
