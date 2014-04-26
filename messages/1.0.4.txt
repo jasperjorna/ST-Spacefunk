@@ -1,3 +1,5 @@
+v1.0.4 (08-04-2014)
+-------------------
 Hi there,
 
 This is a quick fix for the reversed code folding arrows.

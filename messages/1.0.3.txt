@@ -1,3 +1,5 @@
+v1.0.3 (27-03-2014)
+-------------------
 Hi there,
 
 The Future Funk colour schemes are no longer included with Spacefunk and will be maintained separately.

@@ -1,3 +1,5 @@
+v1.0.2 (05-03-2014)
+-------------------
 Hey there,
 
 A small issue with the horizontal scrollbar has been fixed.
