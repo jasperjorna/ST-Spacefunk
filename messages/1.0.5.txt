@@ -1,0 +1,8 @@
+v1.0.5 (13-05-2014)
+-------------------
+Hi there,
+
+The following was fixed in this small update:
+- Tabs not flush with sidebar.
+
+Happy coding!

@@ -5,7 +5,7 @@
     // Tab set
     {
         "class": "tabset_control",
-        "content_margin": [8,0,8,1],
+        "content_margin": [0,0,0,1],
         "layer0.tint": [28,33,38],
         "layer0.opacity": 1,
         "tab_overlap": -1,
