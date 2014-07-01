@@ -1007,25 +1007,23 @@
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
         "layer0.tint": [255,255,255]
     },
-    
 //
 // FIX ICON BUG BY REMOVING THEM
 //
-
     {
         "class": "icon_file_type",
-        "content_margin": [0,0],
-        "layer0.opacity": 0.0
+        "content_margin": 0,
+        "layer0.opacity": 0
     },
     {
         "class": "icon_folder",
         "layer0.texture": "",
-        "layer0.opacity": 0.0,
-        "content_margin": [0,0]
+        "layer0.opacity": 0,
+        "content_margin": 0
     },
     {
         "class": "icon_folder_loading",
-        "content_margin": [0,0],
-        "layer0.opacity": 0.0
+        "content_margin": 0,
+        "layer0.opacity": 0
     }
 ]
