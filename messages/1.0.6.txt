@@ -1,0 +1,8 @@
+v1.0.6 (01-07-2014)
+-------------------
+Hi there,
+
+The following was fixed in this small update:
+- Fix for sidebar icons by jCrip.
+
+Happy coding!
