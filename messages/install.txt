@@ -5,14 +5,12 @@ Copy and paste one of the following bits to your user preferences file.
 
 Blue Monday:
 {
-  "theme": "Spacefunk (Blue Monday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Blue Monday).tmTheme"
+  "theme": "Spacefunk (Blue Monday).sublime-theme"
 }
 
 Grey Tuesday:
 {
-  "theme": "Spacefunk (Grey Tuesday).sublime-theme",
-  "color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme"
+  "theme": "Spacefunk (Grey Tuesday).sublime-theme"
 }
 
 Include an additional line for a light sidebar if you fancy:
