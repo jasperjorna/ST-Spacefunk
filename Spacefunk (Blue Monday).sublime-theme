@@ -475,7 +475,8 @@
     {
         "class": "sidebar_label",
         "color": [101,115,127],
-        "shadow_offset": 0
+        "shadow_offset": 0,
+        "font.size": 12.5
     },
     {
         "class": "sidebar_label",
