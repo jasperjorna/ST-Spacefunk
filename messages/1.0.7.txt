@@ -1,0 +1,8 @@
+v1.0.7 (19-08-2014)
+-------------------
+Hi,
+
+Just a small update:
+- Slightly increased the font size in the tabs and side container.
+
+Happy coding!
