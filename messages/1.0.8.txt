@@ -1,0 +1,9 @@
+v1.0.8 (21-08-2014)
+-------------------
+Hi,
+
+Another small update:
+- Fix for selected sidebar entry.
+- Fix sidebar vertical scrollbar block.
+
+Happy coding!
