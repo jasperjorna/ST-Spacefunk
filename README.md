@@ -12,7 +12,7 @@ Search for `Theme - Spacefunk` in [Sublime Package Control](https://sublime.wbon
 
 1. [Download the .zip](https://github.com/Twiebie/ST-Spacefunk/archive/master.zip)
 2. Unzip and rename the folder to `Theme - Spacefunk`
-3. Copy the folder to your `Packages` directory. Quickly find your directory via 
+3. Copy the folder to your `Packages` directory. Quickly find your directory via
 `Preferences -> Browse Packages...`.
 
 ## Setup
@@ -52,15 +52,7 @@ Find them on: [Package Control](https://sublime.wbond.net/packages/Future%20Funk
 
 ### Screenshots
 #### Blue Monday
-![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20PHP.png)
-
-![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20HTML.png)
-
-![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20CSS.png)
+![image](http://i.imgur.com/tkbsNlI.png)
 
 #### Grey Tuesday
-![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20PHP.png)
-
-![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20HTML.png)
-
-![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20CSS.png)
+![image](http://i.imgur.com/jCAd3Af.png)
